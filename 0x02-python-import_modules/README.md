@@ -5,3 +5,6 @@
 
 ## [`./1-calculation.py`](./1-calculation.py)
 1. My first toolbox!
+
+## [`./2-args.py`](./2-args.py)
+2. How to make a script dynamic!
