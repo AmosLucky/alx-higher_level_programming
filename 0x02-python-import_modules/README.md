@@ -20,3 +20,6 @@ Write a program that prints all the names defined by the compiled module hidden_
 
 ## [`./5-variable_load.py`](./5-variable_load.py)
 
+
+## [`./100-my_calculator.py`](./100-my_calculator.py)
+Write a program that imports all functions from the file calculator_1.py and handles basic operations.
