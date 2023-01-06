@@ -23,3 +23,6 @@ Write a program that prints all the names defined by the compiled module hidden_
 
 ## [`./100-my_calculator.py`](./100-my_calculator.py)
 Write a program that imports all functions from the file calculator_1.py and handles basic operations.
+
+## [`./101-easy_print.py`](./101-easy_print.py)
+Write a program that prints #pythoniscool, followed by a new line, in the standard output.
