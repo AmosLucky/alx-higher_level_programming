@@ -19,3 +19,6 @@ Write a function that removes all characters c and C from a string.
 
 ## [`./6-print_matrix_integer.py`](./6-print_matrix_integer.py)
 Write a function that prints a matrix of integers.
+
+## [`./7-add_tuple.py`](./7-add_tuple.py)
+Write a function that adds 2 tuples.
